@@ -164,7 +164,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/logan2g/proprietary/lib/libwvdrm_L3.so:system/lib/libwvdrm_L3.so \
     vendor/samsung/logan2g/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/logan2g/proprietary/lib/libsamsungpowersound.so:system/lib/libsamsungpowersound.so \
-    vendor/samsung/logan2g/proprietary/lib/libbinder.so:system/lib/libbinder.so \
     vendor/samsung/logan2g/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/logan2g/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/logan2g/proprietary/lib/drm/libomaplugin.so:system/lib/drm/libomaplugin.so \
